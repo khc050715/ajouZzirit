@@ -22,7 +22,9 @@
 ### 참고 사이트
 
 스플래시 스크린 구현
-<https://velog.io/@chloedev/React-native-Splash-Screen-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-iOS-android/>
+<https://docs.expo.dev/tutorial/configuration/?redirected> <br>
+에니메이션 스플래시 스크린
+<https://docs.expo.dev/versions/latest/sdk/splash-screen/> <br>
 
 
 
