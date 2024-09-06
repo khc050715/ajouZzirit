@@ -22,9 +22,9 @@
 ### 참고 사이트
 
 스플래시 스크린 구현
-<https://docs.expo.dev/tutorial/configuration/?redirected>
+<https://docs.expo.dev/tutorial/configuration/?redirected> <br>
 에니메이션 스플래시 스크린
-<https://docs.expo.dev/versions/latest/sdk/splash-screen/>
+<https://docs.expo.dev/versions/latest/sdk/splash-screen/> <br>
 
 
 
