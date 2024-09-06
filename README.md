@@ -26,6 +26,11 @@
 에니메이션 스플래시 스크린
 <https://docs.expo.dev/versions/latest/sdk/splash-screen/> <br>
 
+빌드 과정
+<https://docs.expo.dev/build/setup/> <br>
+apk파일 추출
+<https://docs.expo.dev/build-reference/apk/> <br>
+
 
 
 
