@@ -26,6 +26,14 @@
 에니메이션 스플래시 스크린
 <https://docs.expo.dev/versions/latest/sdk/splash-screen/> <br>
 
+빌드 과정
+<https://docs.expo.dev/build/setup/> <br>
+apk파일 추출
+<https://docs.expo.dev/build-reference/apk/> <br>
+
+지도 API
+<https://velog.io/@leetaekyu2077/React-Native%EC%97%90%EC%84%9C-%EA%B5%AC%EA%B8%80%EB%A7%B5-API-%EC%82%AC%EC%9A%A9-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-api-key-%EC%88%A8%EA%B8%B0%EA%B8%B0>
+
 
 
 
